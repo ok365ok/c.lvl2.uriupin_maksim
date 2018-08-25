@@ -50,6 +50,7 @@ namespace Asteroids1
             Buffer.Graphics.Clear(Color.Black);
             Buffer.Graphics.DrawRectangle(Pens.White, new Rectangle(100, 100, 200, 200));
             Buffer.Graphics.FillEllipse(Brushes.Wheat, new Rectangle(100, 100, 200, 200));
+            Buffer.Graphics.FillEllipse(Brushes.Wheat, new Rectangle(100, 100, 200, 200));
             Buffer.Render();
 
             // вывод объектов на экран
