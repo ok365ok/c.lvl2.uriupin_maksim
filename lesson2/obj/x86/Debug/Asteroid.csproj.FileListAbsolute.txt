@@ -1,0 +1,9 @@
+C:\Users\Tywin\Desktop\PROG\lesson2\obj\x86\Debug\Asteroid.csprojAssemblyReference.cache
+C:\Users\Tywin\Desktop\PROG\lesson2\obj\x86\Debug\Asteroid.csproj.CoreCompileInputs.cache
+C:\Users\Tywin\Desktop\PROG\lesson2\obj\x86\Debug\Asteroid.csproj.GenerateResource.cache
+C:\Users\Tywin\Desktop\PROG\lesson2\bin\Debug\Asteroid.exe.config
+C:\Users\Tywin\Desktop\PROG\lesson2\bin\Debug\Asteroid.exe
+C:\Users\Tywin\Desktop\PROG\lesson2\bin\Debug\Asteroid.pdb
+C:\Users\Tywin\Desktop\PROG\lesson2\obj\x86\Debug\Asteroid.Resources.resources
+C:\Users\Tywin\Desktop\PROG\lesson2\obj\x86\Debug\Asteroid.exe
+C:\Users\Tywin\Desktop\PROG\lesson2\obj\x86\Debug\Asteroid.pdb
