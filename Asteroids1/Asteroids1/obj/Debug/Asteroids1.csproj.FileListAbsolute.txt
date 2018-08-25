@@ -1,7 +1,0 @@
-C:\Users\Tywin\Desktop\PROG\lesson1\Asteroids1\Asteroids1\bin\Debug\Asteroids1.exe.config
-C:\Users\Tywin\Desktop\PROG\lesson1\Asteroids1\Asteroids1\bin\Debug\Asteroids1.exe
-C:\Users\Tywin\Desktop\PROG\lesson1\Asteroids1\Asteroids1\bin\Debug\Asteroids1.pdb
-C:\Users\Tywin\Desktop\PROG\lesson1\Asteroids1\Asteroids1\obj\Debug\Asteroids1.csprojAssemblyReference.cache
-C:\Users\Tywin\Desktop\PROG\lesson1\Asteroids1\Asteroids1\obj\Debug\Asteroids1.csproj.CoreCompileInputs.cache
-C:\Users\Tywin\Desktop\PROG\lesson1\Asteroids1\Asteroids1\obj\Debug\Asteroids1.exe
-C:\Users\Tywin\Desktop\PROG\lesson1\Asteroids1\Asteroids1\obj\Debug\Asteroids1.pdb
